@@ -1,0 +1,9 @@
+.Rproj.user
+.Rbuildignore
+.rfifa.Rproj
+.ipynb_checkpoints/
+.virtual_documents/
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
