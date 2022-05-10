@@ -14,3 +14,5 @@ Config/testthat/edition: 3
 Imports: 
     dplyr,
     readr
+URL: https://github.com/tonyliang19/rfifa
+BugReports: https://github.com/tonyliang19/rfifa/issues
