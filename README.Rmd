@@ -29,7 +29,7 @@ You can install the development version of rfifa from [GitHub](https://github.co
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("rfifa")
+devtools::install_github("tonyliang19/rfifa")
 ```
 
 ## Example
