@@ -17,7 +17,6 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     dplyr,
-    readr,
     utils
 URL: https://tonyliang19.github.io/rfifa/
 VignetteBuilder: knitr
