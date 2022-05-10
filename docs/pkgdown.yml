@@ -1,0 +1,7 @@
+pandoc: '2.18'
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  save_dat: save_dat.html
+last_built: 2022-05-10T21:58Z
+
