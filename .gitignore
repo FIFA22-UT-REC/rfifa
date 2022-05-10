@@ -7,3 +7,9 @@
 .Rdata
 .httr-oauth
 .DS_Store
+.A.csv
+.B.csv
+A.csv
+B.csv
+docs
+inst/doc

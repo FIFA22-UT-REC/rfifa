@@ -3,16 +3,21 @@ Title: R Package To Extract And Process FIFA Player Data
 Version: 1.0.0
 Authors@R: 
     person("Tony", "Liang", , "chunqingliang@gmail.com", role = c("aut", "cre"))
-Description: This packages contains function that facilitates in data processing and extraction of FIFA 22 or beyonds years'player stats web scrawled from this website [soFIFA] (https://sofifa.com/)
+Description: Facilitates data processing, and extraction of FIFA 22 player stats,
+  scrawled from this website [soFIFA] (https: //sofifa.com/).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Suggests: 
+    covr,
+    knitr,
+    rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Imports: 
     dplyr,
-    readr
-URL: https://github.com/tonyliang19/rfifa
-BugReports: https://github.com/tonyliang19/rfifa/issues
+    readr,
+    utils
+URL: https://tonyliang19.github.io/rfifa/
+VignetteBuilder: knitr

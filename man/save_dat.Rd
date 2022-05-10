@@ -7,7 +7,7 @@
 save_dat(df, position, out_path)
 }
 \arguments{
-\item{df}{a dataframe that contains columns \code{pos} and \code{overall}}
+\item{df}{a data frame that contains columns \code{pos} and \code{overall}}
 
 \item{position}{a string that filters the players of the df}
 
@@ -20,6 +20,5 @@ a csv file that has name of \code{out_path/position.csv} format.
 Process and saves data of give user input (name and path)
 }
 \examples{
-save_dat(data.frame(pos = c("A", "B"), overall = c(1,2)),"A", "../temp/")
-save_dat(data.frame(pos = c("A","B"), overall = c(0,0)), "", "../temp/")
+2+2
 }
