@@ -22,7 +22,7 @@ You can install the development version of rfifa from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("rfifa")
+devtools::install_github("tonyliang19/rfifa")
 ```
 
 ## Example
